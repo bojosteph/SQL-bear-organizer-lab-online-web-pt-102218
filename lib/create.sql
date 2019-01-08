@@ -1,6 +1,17 @@
- def creating_bear_table
+ def creating_bears_table
  
- CREATE TABLE
+ CREATE TABLE bears (
+ id Integer PRIMARY KEY,
+ name TEXT,
+ age INTEGER,
+ gender TEXT,
+ color TEXT,
+ temperament TEXT,
+ alive boolean
+ 
+ 
+ 
+ );
  
  
  end
