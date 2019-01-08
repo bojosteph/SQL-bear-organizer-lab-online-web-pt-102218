@@ -1,8 +1,8 @@
 def creating_bears_table
 
-" CREATE TABLE bears ("
-"id Integer PRIMARY KEY,"
-" name TEXT,"
+ CREATE TABLE bears (
+id Integer PRIMARY KEY,
+ name TEXT,
  age INTEGER,
  gender TEXT,
  color TEXT,
