@@ -6,10 +6,8 @@
  gender TEXT,
  color TEXT,
  temperament TEXT,
- alive boolean
+ alive BOOLEAN
  
- 
- 
- ); "
+  ); "
  
  
